@@ -1,4 +1,4 @@
-https://fedeli-luke.github.io/leaflet-challenge/
+https://fedeli-luke.github.io/leaflet-challenge/index.html
 
 # Leaflet Homework - Visualizing Data with Leaflet
 
